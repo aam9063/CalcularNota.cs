@@ -1,4 +1,4 @@
-# CalcularNota.cs
+# CalcularNota
 // En c#   crea un programa que se deba tener en cuenta la nota de
 prácticas para realizar la media, siendo ambas exactas.
 El resultado será una nota numérica que puede tener decimales, además tanto en las
